@@ -1,3 +1,5 @@
+<?php
+
 $ranking_body_font_get = cs_get_option('ranking_body_font');
 $ranking_heading_font_get = cs_get_option('ranking_headding_font');
 
